@@ -3,7 +3,7 @@ import {createStore} from 'redux';
 const initialState = {
     currentValue: 0,
     previousValues: [],
-    futureValues: [],
+    futureValues: []
 
 }
 
